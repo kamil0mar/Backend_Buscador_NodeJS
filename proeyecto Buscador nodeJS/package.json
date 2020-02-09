@@ -1,0 +1,19 @@
+{
+  "name": "buscador-node",
+  "version": "1.0.0",
+  "description": "Evaluacion final Backend Next U",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamil0mar/Backend_Buscador_NodeJS.git"
+  },
+  "author": "Camilo A. Alfono M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamil0mar/Backend_Buscador_NodeJS/issues"
+  },
+  "homepage": "https://github.com/kamil0mar/Backend_Buscador_NodeJS#readme"
+}
